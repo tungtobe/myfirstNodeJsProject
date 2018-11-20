@@ -1,0 +1,22 @@
+{
+  "name": "myfirstnodejsproject",
+  "version": "1.0.0",
+  "description": "NodeJs + Express",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "myfirstNodeJsProject"
+  },
+  "keywords": [
+    "keyword"
+  ],
+  "author": "Tobe",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "npm": "^6.4.1"
+  }
+}
